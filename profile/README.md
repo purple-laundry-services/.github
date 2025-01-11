@@ -2,8 +2,6 @@
 
 The **Purple Laundry Service** is a web-based platform that simplifies laundry service management for customers, dry cleaners, and administrators. This robust backend enables secure operations, seamless service handling, and user-friendly interactions.
 
----
-
 ## 🚀 Problem Solved
 
 Managing laundry services can be disorganized for both customers and providers. This API addresses these challenges by offering:
@@ -11,8 +9,6 @@ Managing laundry services can be disorganized for both customers and providers. 
 - **Simplified Service Requests**: Easy scheduling, order tracking, and pricing transparency for customers.
 - **Streamlined Management**: Efficient tools for dry cleaners to handle orders and manage offerings.
 - **Centralized Oversight**: A comprehensive admin dashboard for monitoring and optimizing platform operations.
-
----
 
 ## 🌟 Key Features
 
@@ -49,8 +45,6 @@ Managing laundry services can be disorganized for both customers and providers. 
 - RESTful endpoints designed for seamless frontend integration.
 - Extensible architecture for future feature development.
 
----
-
 ## 💻 Tech Stack
 
 | Component           | Technology    |
@@ -60,5 +54,3 @@ Managing laundry services can be disorganized for both customers and providers. 
 | **Authentication**   | JWT           |
 | **Notifications**    | WebSocket, Email |
 | **Hosting**          | AWS, Heroku, etc. |
-
----
